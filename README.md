@@ -1,6 +1,8 @@
 PRIVACY POLICY for Trippy Animation Tool
 
-# TrippyAnimationToDeveloper Info: Jeffrey Box - ocybin@gmail.com
+
+
+TrippyAnimationToDeveloper Info: Jeffrey Box - ocybin@gmail.com
 
 **Data Collection Statement:**  This application does not collect, store, or share any personal user data.
 
