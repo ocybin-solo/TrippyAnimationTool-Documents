@@ -1,0 +1,79 @@
+{
+	"active_effects": [
+		"ray_march",
+		"hyperbolic",
+		"newton",
+		"fisheye",
+		"droste",
+		"pre_rotation",
+		"fold",
+		"julia",
+		"kaleidoscope",
+		"ripple",
+		"swirl",
+		"hue_shift",
+		"mobius"
+	],
+	"base": {
+		"base_color": [
+			0.104029342532158,
+			0.411528050899506,
+			0.516517579555511,
+			1.0
+		],
+		"bg_color": [
+			0.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"brightness": 0.0,
+		"contrast": 1.0,
+		"saturation": 1.0,
+		"sync_to_loop": 0.0
+	},
+	"meta": {
+		"app": "free-shader-lab",
+		"created": "2026-03-25",
+		"name": "Ocyb0n",
+		"version": 2
+	},
+	"params": {
+		"droste_speed": 1.39,
+		"droste_strength": 0.22,
+		"droste_twist": -1.08,
+		"droste_zoom": 1.82,
+		"fisheye": 1.0,
+		"fold_number": 8.0,
+		"fold_rot_speed": 0.05,
+		"fold_zoom": 9.1,
+		"hue_cycle_rate": 0.09,
+		"hyperbolic_bend": 2.562,
+		"julia_cx": 1.913,
+		"julia_cy": 1.375,
+		"julia_speed": 0.55,
+		"julia_strength": 0.78,
+		"julia_zoom": 3.38,
+		"kaleido_sides": 6.0,
+		"mobius_center": 0.55,
+		"mobius_speed": -0.05,
+		"mobius_strength": 0.54,
+		"mobius_twist": -3.14159,
+		"mobius_zoom": 5.0,
+		"newton_color_mix": 0.82,
+		"newton_iterations": 16.0,
+		"newton_speed": -0.01,
+		"newton_strength": 0.72,
+		"newton_zoom": 3.76,
+		"post_rotation_speed": 0.16,
+		"ray_cycle_speed": 0.03,
+		"ray_intensity": 0.4,
+		"ray_spread": 4.68,
+		"ripple_frequency": 12.0,
+		"ripple_speed": -0.21,
+		"ripple_strength": 0.64,
+		"step_length": 0.029,
+		"swirl_strength": -4.0
+	},
+	"sync_to_loop": false
+}
