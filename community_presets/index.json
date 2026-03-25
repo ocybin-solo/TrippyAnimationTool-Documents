@@ -3,55 +3,55 @@
     "presets": [
         {
             "name": "ocyb0n",
-            "file": "ocyb0n.json",
+            "file": "Ocyb0n.json",
             "author": "ocybin",
             "description": "."
         },
                     {
             "name": "ocyb1n",
-            "file": "ocyb1n.json",
+            "file": "Ocyb1n.json",
             "author": "ocybin",
             "description": ".t"
         },
                 {
             "name": "ocyb2n",
-            "file": "ocyb2n.json",
+            "file": "Ocyb2n.json",
             "author": "ocybin",
             "description": ".te"
         },
                 {
             "name": "ocyb3n",
-            "file": "ocyb3n.json",
+            "file": "Ocyb3n.json",
             "author": "ocybin",
             "description": ".tes"
         },
                 {
             "name": "ocyb4n",
-            "file": "ocyb4n.json",
+            "file": "Ocyb4n.json",
             "author": "ocybin",
             "description": ".test"
         },
                 {
             "name": "ocyb5n",
-            "file": "ocyb5n.json",
+            "file": "Ocyb5n.json",
             "author": "ocybin",
             "description": ".testi"
         },
                 {
             "name": "ocyb6n",
-            "file": "ocyb6n.json",
+            "file": "Ocyb6n.json",
             "author": "ocybin",
             "description": ".testin"
         },
                         {
             "name": "ocyb7n",
-            "file": "ocyb7n.json",
+            "file": "Ocyb7n.json",
             "author": "ocybin",
             "description": ".testing"
         },
         {
          "name": "ocyb8n",
-            "file": "ocyb8n.json",
+            "file": "Ocyb8n.json",
             "author": "ocybin",
             "description": ".testing."
         }
